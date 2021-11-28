@@ -1,6 +1,6 @@
 ## Welcome To The Official Website Of The Republic Of Branigia ![alt text](https://github.com/Republic-Of-Branigia/Republic-Of-Branigia.github.io/blob/main/makesweet-wxn9nn.gif?raw=true)
 
-You can use the [editor on GitHub](https://github.com/Republic-Of-Branigia/Republic-Of-Branigia.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
+-[Apply For Citizenship](https://forms.gle/zJMKCpoiXqyzePmu6)
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
