@@ -1,4 +1,4 @@
-##Welcome To The Official Website Of The Republic Of Branigia
+## Welcome To The Official Website Of The Republic Of Branigia
 
 You can use the [editor on GitHub](https://github.com/Republic-Of-Branigia/Republic-Of-Branigia.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
 
